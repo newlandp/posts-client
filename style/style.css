@@ -1,0 +1,9 @@
+.posts-title {
+  width: 50%;
+  float: left;
+}
+
+.new-post-link {
+  width: 50%;
+  float: right;
+}
